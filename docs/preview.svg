@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" width="1280" height="800" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9e4ff"/><stop offset="1" stop-color="#d9f4f8"/></linearGradient><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d4aff"/><stop offset="1" stop-color="#00c2d1"/></linearGradient><linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6d4aff"/><stop offset="1" stop-color="#00c2d1"/></linearGradient><filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#2a2370" flood-opacity=".22"/></filter><clipPath id="win"><rect x="40" y="30" width="1200" height="740" rx="14"/></clipPath></defs>
+<rect width="1280" height="800" fill="url(#bg)"/><rect x="40" y="30" width="1200" height="740" rx="14" fill="#fff" filter="url(#sh)"/><g clip-path="url(#win)">
+<rect x="40" y="30" width="1200" height="38" fill="#eef0f3"/>
+<circle cx="62" cy="49" r="6" fill="#ff5f57"/>
+<circle cx="82" cy="49" r="6" fill="#febc2e"/>
+<circle cx="102" cy="49" r="6" fill="#28c840"/>
+<rect x="420" y="38" width="440" height="22" rx="11" fill="#fff"/>
+<text x="640" y="53" font-size="11" fill="#62607f" font-weight="400" text-anchor="middle">localhost:5173</text>
+<rect x="80" y="92" width="28" height="28" rx="9" fill="url(#lg)"/>
+<text x="118" y="113" font-size="20" fill="#14122b" font-weight="800" text-anchor="start">Aurora</text>
+<text x="330" y="112" font-size="15" fill="#62607f" font-weight="500" text-anchor="start">Features</text>
+<text x="422" y="112" font-size="15" fill="#62607f" font-weight="500" text-anchor="start">Pricing</text>
+<text x="514" y="112" font-size="15" fill="#62607f" font-weight="500" text-anchor="start">FAQ</text>
+<rect x="1096" y="90" width="124" height="38" rx="12" fill="#6d4aff"/>
+<text x="1158" y="114" font-size="14" fill="#fff" font-weight="600" text-anchor="middle">Get started</text>
+<line x1="40" x2="1240" y1="142" y2="142" stroke="#e7e5f4"/>
+<rect x="500" y="170" width="280" height="30" rx="15" fill="#f6f5ff" stroke="#e7e5f4"/>
+<text x="640" y="190" font-size="13.5" fill="#6d4aff" font-weight="600" text-anchor="middle">New: automations are here</text>
+<text x="640" y="268" font-size="60" fill="#14122b" font-weight="800" text-anchor="middle">Ship your product</text>
+<text x="640" y="336" font-size="60" font-weight="800" text-anchor="middle" fill="url(#tx)">faster, together.</text>
+<text x="640" y="382" font-size="18" fill="#62607f" font-weight="400" text-anchor="middle">Aurora brings planning, analytics and automation into one</text>
+<text x="640" y="408" font-size="18" fill="#62607f" font-weight="400" text-anchor="middle">calm workspace, so your team can focus on what matters.</text>
+<rect x="498" y="432" width="160" height="50" rx="12" fill="#6d4aff"/>
+<text x="578" y="463" font-size="16" fill="#fff" font-weight="600" text-anchor="middle">Start for free</text>
+<rect x="672" y="432" width="170" height="50" rx="12" fill="#fff" stroke="#e7e5f4"/>
+<text x="757" y="463" font-size="16" fill="#14122b" font-weight="600" text-anchor="middle">See how it works</text>
+<text x="240" y="556" font-size="34" fill="#14122b" font-weight="800" text-anchor="middle">12k+</text>
+<text x="240" y="582" font-size="15" fill="#62607f" font-weight="400" text-anchor="middle">Teams onboarded</text>
+<text x="640" y="556" font-size="34" fill="#14122b" font-weight="800" text-anchor="middle">99.9%</text>
+<text x="640" y="582" font-size="15" fill="#62607f" font-weight="400" text-anchor="middle">Uptime last year</text>
+<text x="1040" y="556" font-size="34" fill="#14122b" font-weight="800" text-anchor="middle">4.9/5</text>
+<text x="1040" y="582" font-size="15" fill="#62607f" font-weight="400" text-anchor="middle">Average rating</text>
+<rect x="80" y="620" width="352" height="160" rx="18" fill="#fff" stroke="#e7e5f4"/><rect x="104" y="644" width="44" height="44" rx="12" fill="#f6f5ff"/><circle cx="126" cy="666" r="8" fill="none" stroke="#6d4aff" stroke-width="2"/>
+<text x="104" y="716" font-size="18" fill="#14122b" font-weight="700" text-anchor="start">Fast by default</text>
+<text x="104" y="742" font-size="14.5" fill="#62607f" font-weight="400" text-anchor="start">Pages render in milliseconds.</text>
+<rect x="464" y="620" width="352" height="160" rx="18" fill="#fff" stroke="#e7e5f4"/><rect x="488" y="644" width="44" height="44" rx="12" fill="#f6f5ff"/><circle cx="510" cy="666" r="8" fill="none" stroke="#6d4aff" stroke-width="2"/>
+<text x="488" y="716" font-size="18" fill="#14122b" font-weight="700" text-anchor="start">Secure workspaces</text>
+<text x="488" y="742" font-size="14.5" fill="#62607f" font-weight="400" text-anchor="start">Roles, audit logs and SSO.</text>
+<rect x="848" y="620" width="352" height="160" rx="18" fill="#fff" stroke="#e7e5f4"/><rect x="872" y="644" width="44" height="44" rx="12" fill="#f6f5ff"/><circle cx="894" cy="666" r="8" fill="none" stroke="#6d4aff" stroke-width="2"/>
+<text x="872" y="716" font-size="18" fill="#14122b" font-weight="700" text-anchor="start">Clear analytics</text>
+<text x="872" y="742" font-size="14.5" fill="#62607f" font-weight="400" text-anchor="start">Dashboards everyone can read.</text>
+</g></svg>
